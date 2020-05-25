@@ -1,0 +1,13 @@
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.exe
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.deps.json
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.runtimeconfig.json
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.runtimeconfig.dev.json
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.dll
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\bin\Debug\netcoreapp3.1\DotMotServer.pdb
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.csprojAssemblyReference.cache
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.csproj.CoreCompileInputs.cache
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.AssemblyInfoInputs.cache
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.AssemblyInfo.cs
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.dll
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.pdb
+C:\Users\Seiko Santana\OneDrive\Projects\DotMot\DotMotServer\DotMotServer\obj\Debug\netcoreapp3.1\DotMotServer.genruntimeconfig.cache
